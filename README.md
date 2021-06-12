@@ -10,11 +10,32 @@ The idea behind this project is to conceptualize what [Fender's](https://shop.fe
 
 
 ## Run Locally
+
+Clone the project
+
 ```bash
-  npm install
-  npm start
+  git clone  https://github.com/carloswhite/fenderfy.git
+```
+
+Go to the project directory
+
+```bash
+  cd fenderfy
+```
+
+Install dependencies
+
+```bash
+npm install 
+```
+
+Start the server
+
+```bash
+  npm run start
 ```
  
+
  ## Live Demo
 >  https://try-fenderfy.netlify.app
 
