@@ -1,20 +1,34 @@
 
-Fenderfy
-===
-![downloads](https://img.shields.io/badge/downloads-1-brightgreen)
-![build](https://img.shields.io/badge/netlify-passing-brightgreen)
+# Fenderfy
 
-## Project
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+![ReactJS](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-The idea behind this project is to conceptualize what Fender's 'https://shop.fender.com/en-US/mod-shop.html' page could look like if their team was to start using a more modern approach to their "guitar builder" section.
 
-### todo:
- `npm install` ` + ` `npm start`
+The idea behind this project is to conceptualize what [Fender's](https://shop.fender.com/en-US/mod-shop.html) page could look like if their team was to start using a more modern approach to their "guitar builder" section. I don't mean to sound pretentious, though. This is my own take on what it could look like.
 
-> Live demo: https://try-fenderfy.netlify.app
+
+## Run Locally
+```bash
+  npm install
+  npm start
+```
+ 
+ ## Live Demo
+>  https://try-fenderfy.netlify.app
+
+
+## Acknowledgements
+
+ - [Awesome Readme Templates](https://awesomeopensource.com/project/elangosundar/awesome-README-templates)
+ - [Awesome README](https://github.com/matiassingers/awesome-readme)
+ - [How to write a Good readme](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
 
 ## Appendix and FAQ
 
-**Find this document incomplete?** Leave a comment!
+**Find this document incomplete?** Open an issue and I will get on it ASAP!
 
-###### tags: `3D-Models` `Three.js` `Blender`
+###### tags: `3D-Models` `Three.js` `Blender` `WebGL`
+
+  
