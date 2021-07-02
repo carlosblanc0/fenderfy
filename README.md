@@ -8,7 +8,7 @@
 
 The idea behind this project is to conceptualize what [Fender's](https://shop.fender.com/en-US/mod-shop.html) page could look like if their team was to start using a more modern approach to their "guitar builder" section. I don't mean to sound pretentious, though. This is my own take on what it could look like.
 
-![ Alt text](fenderfy-gif.gif)
+![fenderfy](fenderfy-gif.gif)
 
 ## Run Locally
 
