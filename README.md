@@ -15,7 +15,7 @@ The idea behind this project is to conceptualize what [Fender's](https://shop.fe
 Clone the project
 
 ```bash
-  git clone  https://github.com/carloswhite/fenderfy.git
+  git clone  https://github.com/carlosblanc0/fenderfy.git
 ```
 
 Go to the project directory
